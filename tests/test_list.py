@@ -9,9 +9,4 @@ class test_sort_list(unittest.TestCase):
 
     def test_list(self):
         self.assertRaises(TypeError, find_number,'123')
-
-
-
-
-
-    
+   
